@@ -96,13 +96,3 @@ Malformed, empty, and huge traces all get a clear message instead of a crash.
 Persistence is `localStorage` plus the URL, so a shared link only opens in
 the browser that loaded the trace. It's a deliberate scope choice — the app
 works fully with no server — and it's the first thing a backend would fix.
-
-## A note on AI usage
-
-I used Claude (Claude Code) as a pair-programmer throughout this project,
-most heavily for the UI — component layout, styling, and interaction
-details were largely built and iterated on with it. The core ideas (the
-epistemic-history framing in `ideas.md`, the normalized trace schema, the
-failure-taxonomy heuristics, and the architecture decisions in
-`REPORT.md`) are mine; AI helped me implement and refine them, not
-originate them.
