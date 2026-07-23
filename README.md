@@ -7,6 +7,8 @@ it did.
 
 Runs entirely in the browser. No backend, no database, no API keys.
 
+**[Live demo](https://disha-a-g.github.io/chat-tracer-viewer/)**
+
 - **[ideas.md](./ideas.md)** — the thinking behind it.
 - **[REPORT.md](./REPORT.md)** — the UX and architecture decisions.
 
