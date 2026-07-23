@@ -9,6 +9,8 @@ Runs entirely in the browser. No backend, no database, no API keys.
 
 **[Live demo](https://disha-a-g.github.io/chat-tracer-viewer/)**
 
+![Timeline view of a failed Claude Code trace, with stats, a TL;DR failure banner, and a confidence sparkline](./docs/screenshot.jpg)
+
 - **[ideas.md](./ideas.md)** — the thinking behind it.
 - **[REPORT.md](./REPORT.md)** — the UX and architecture decisions.
 
